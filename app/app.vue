@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { Analytics } from "@vercel/analytics/nuxt";
 const site = {
 	title: "404 Museum - The Archive of Lost Codes by Kaloka Radia Nanda",
 	description:
@@ -9,6 +10,7 @@ const site = {
 </script>
 
 <template>
+	<Analytics />
 	<Head class="scroll-smooth">
 		<!-- Basic SEO -->
 		<Title>{{ site.title }}</Title>
