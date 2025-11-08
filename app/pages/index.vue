@@ -35,7 +35,7 @@
 			</h1>
 
 			<p class="mt-5 text-gray-400 max-w-xl text-base md:text-lg">
-				Tempat semua percobaan, bug, dan setengah ide yang pernah lo
+				Tempat semua percobaan, bug, dan setengah ide yang pernah aku
 				tulis —diabadikan biar gak hilang ditelan `git rm -rf`.
 			</p>
 
